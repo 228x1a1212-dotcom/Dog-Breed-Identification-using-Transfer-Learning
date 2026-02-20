@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Home - Dog Breed Identifier{% endblock %}
+{% block content %}
+<section class="home-section" style="background-image: url('https://thumbs.dreamstime.com/b/delightful-dog-background-featuring-playful-friendly-dogs-ideal-pet-themes-image-372308020.jpg');">
+    <div class="overlay">
+        <div class="home-box">
+            <h1>Welcome to Dog Breed Identifier 🐾</h1>
+            <p>Upload an image of a dog (or even a person) and our intelligent model will tell you the dog breed or which breed the person resembles!</p>
+            <a href="{{ url_for('predict') }}" class="btn-primary">Try Prediction</a>
+        </div>
+    </div>
+</section>
+{% endblock %}
