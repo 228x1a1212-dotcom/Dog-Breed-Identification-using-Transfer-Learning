@@ -112,14 +112,14 @@ http://127.0.0.1:5000/
 
 ## 👥 Team Details
 
-**Team ID:** LTVIP2025TMIDS63802
+**Team ID:** LTVIP2026TMIDS55079
 
-**Team Leader:** Pammi Likhitha  
+**Team Leader:** V V N S R Gowtham Kamarajugadda  
 
 **Team Members:**  
-- Puppalla Rama Krishna  
-- Shaik Shamila  
-- Shaik Mahaboob Subhani  
+- Chembeti Naga Venkata Kumar 
+- Kotapati Bhargava Ram Gopi Chand
+-Gutlapalli Sai Vardhan Kumar  
 
 ## 📌 References
 1. Chollet, F. (2018). *Deep Learning with Python* (2nd Edition). Manning Publications.  
